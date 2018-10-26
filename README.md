@@ -2,7 +2,9 @@
 
 My Diary is a console based version of handwritten diary book
 
-ver.: 0.9, read from console and wright to file with adding date and time
+ver.: 0.9, read from console and wright to file named as date of creation in '/diary' folder 
+
+with .txt format and UTF-8 encoding adding time stamp at the start of new record and separator at the end
 
 wiki: https://en.wikipedia.org/wiki/Diary
 
