@@ -26,8 +26,8 @@ file_name = time.strftime('%Y-%m-%d')
 time_string = time.strftime('%H:%M')
 separator = '-----------------------------------------------------'
 
-# creating an instance of File class named as creating date
-# in diary folder with .txt format and UTF-8 encoding
+# creating an instance of File class named as date of creation
+# in '/diary' folder with .txt format and UTF-8 encoding
 # adding time stamp at the start of new record and separator at the end
 file = File.new(current_path + '/diary/' + file_name + '.txt', 'a:UTF-8')
 file.print("\n\r" + time_string + "\n\r")
