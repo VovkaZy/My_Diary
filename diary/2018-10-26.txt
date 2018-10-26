@@ -32,3 +32,7 @@ Thank you.
 I've just commit and push some of my programs including my_diary to my GitHub repo
 I'm trying to wright good code and clear, using rubocop for inspecting it
 -----------------------------------------------------
+
+17:54
+Test it
+-----------------------------------------------------
